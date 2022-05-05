@@ -1,0 +1,51 @@
+.weather-app {
+  border: 3px solid rgb(119, 167, 209);
+  padding: 35px;
+  margin: 20px;
+  border-radius: 15px;
+}
+.weathericon {
+  width: 100pxs;
+  position: relative;
+  top: 0;
+  left: 0;
+  padding-bottom: 30px;
+}
+
+.temperature {
+  font-size: 65px;
+}
+.degree {
+  position: relative;
+  top: -40px;
+}
+h1 {
+  text-align: center;
+  color: rgb(48, 93, 182);
+}
+h2 {
+  padding-top: 25px;
+  color: green;
+}
+
+p {
+  color: green;
+}
+h3 {
+  font-size: 30px;
+  color: green;
+  font-style: italic;
+}
+li {
+  list-style: none;
+}
+.row {
+  color: green;
+}
+.thisweek {
+  font-weight: bold;
+  padding-top: 25px;
+}
+.searchCity {
+  margin-top: 40px;
+}
